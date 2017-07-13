@@ -4,7 +4,7 @@ const api = require('../utils/api');
 
 
 /*** State ***/
-/*
+
 class Popular extends React.Component {
 
   constructor (props) {
@@ -47,7 +47,7 @@ class Popular extends React.Component {
 
 
 /*** Lifecycle ***/
-
+/*
 function SelectLanguage(props) {
   var languages = ["All", 'JavaScript', 'Ruby', 'Java', 'CSS','Python'];
 

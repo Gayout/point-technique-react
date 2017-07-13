@@ -11,7 +11,7 @@ const Battle = require('./Battle');
 const Results = require('./Results');
 const Nav = require('./Nav');
 
-/*
+
 class App extends React.Component {
   render() {
     return (
@@ -25,7 +25,7 @@ class App extends React.Component {
 
 /*** Router ***/
 
-
+/*
 class App extends React.Component {
   render() {
     return (

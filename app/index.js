@@ -3,7 +3,7 @@ const ReactDom = require('react-dom');
 const PropTypes = require('prop-types');
 require('./index.css');
 
-/*
+
 class HelloWorld extends React.Component {
   render () {
     return (
@@ -112,7 +112,7 @@ ReactDom.render(
 /**/
 
 
-
+/*
 const App = require('./components/App');
 
 ReactDom.render(
