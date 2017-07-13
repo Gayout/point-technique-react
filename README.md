@@ -2,7 +2,7 @@
 Point Technique Reacgt
 ========
 
-## Dans ce point technique plusieurs sujet seront abordés
+## Dans ce point technique plusieurs sujets seront abordés
 
 Voici la liste des sujets qui sont abordés dans ce point technique
 1. HelloWorld
